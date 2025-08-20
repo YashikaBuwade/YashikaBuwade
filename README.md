@@ -5,15 +5,15 @@
 
 ### 👋 Summary
 
-A developer who loves to see ideas come to life through code. I specialize in crafting robust backend architectures with **Java & Spring Boot** and building beautiful, cross-platform mobile experiences with **Flutter**. I'm on a mission to write clean, efficient code that solves real problems and provides a seamless user experience. Currently open to new opportunities and collaborations!
+A developer who loves to see ideas come to life through code. I specialize in crafting robust backend architectures with **Java & Spring Boot** and building beautiful, cross-platform mobile experiences with **Flutter**. I'm on a mission to write clean, efficient code that solves real problems and provides a seamless user experience.
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💼 **Currently:** Sharpening my skills as a **Software Development Intern** @ **Muster Dekho**, working with Java, Spring Boot, and Flutter.
-- 🌱 **Learning & Growing:** Deep diving into **Microservices, Spring Cloud, and AWS** to build even more scalable and resilient systems.
-- 💡 **Passionate About:** Backend engineering, clean architecture, and the magic that happens when a great UI meets a powerful API.
+- 💼 **Currently:** Sharpening my skills as a **Software Development Intern** @ **Muster Dekho**.
+- 🌱 **Learning & Growing:** Deep diving into **Microservices, Spring Cloud, and AWS**.
+- 💡 **Passionate About:** Backend engineering, clean architecture, and intuitive UI/UX.
 - 📫 **Want to talk tech?** Reach me at: **yashikabuwade@gmail.com**
 - ⚡ **Fun fact:** I can debug code and tell a joke simultaneously—my two greatest skills for lightening up a tense sprint. 😄
 
@@ -21,52 +21,47 @@ A developer who loves to see ideas come to life through code. I specialize in cr
 
 ### 🛠️ Tech Stack
 
-**Backend Development:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Mobile & Frontend Development:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Mobile & Frontend:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools & Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Languages & Concepts:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=oracle&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+**Database & Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashikaBuwade&show_icons=true&theme=aura&hide_border=true" alt="Yashika's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashikaBuwade&theme=aura&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashikaBuwade&show_icons=true&theme=aura&hide_border=true" alt="Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashikaBuwade&theme=aura&hide_border=true" alt="Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashikaBuwade&layout=compact&theme=aura&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashikaBuwade&layout=compact&theme=aura&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- **[AI Assistant](https://github.com/YashikaBuwade/ai-assistant)** - A smart chatbot built with Flutter and the Gemini API.
-- **[Weather Application](https://github.com/YashikaBuwade/weather-app)** - A Python-based app fetching real-time weather data.
-- **[Student Result Management System](https://github.com/YashikaBuwade/student-result-system)** - A Java/JDBC/MySQL desktop application.
+[![AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=YashikaBuwade&repo=AI_Assistant&theme=aura&hide_border=true)](https://github.com/YashikaBuwade/AI_Assistant)
+[![Apartment UI](https://github-readme-stats.vercel.app/api/pin/?username=YashikaBuwade&repo=Apartment_ui&theme=aura&hide_border=true)](https://github.com/YashikaBuwade/Apartment_ui)
+
+[![News App](https://github-readme-stats.vercel.app/api/pin/?username=YashikaBuwade&repo=News_app&theme=aura&hide_border=true)](https://github.com/YashikaBuwade/News_app)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=YashikaBuwade&repo=Weather_map_using_python&theme=aura&hide_border=true)](https://github.com/YashikaBuwade/Weather_map_using_python)
 
 ---
 
@@ -74,5 +69,4 @@ A developer who loves to see ideas come to life through code. I specialize in cr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikabuwade@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashikaBuwade)
 
