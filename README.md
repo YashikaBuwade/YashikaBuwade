@@ -3,7 +3,7 @@
 
 ---
 
-### 👋 Summary
+### 🚀 In a Nutshell 
 
 Backend (Java/Spring) + AI/Automation (Python) + Mobile (Flutter). Crafting full-stack solutions from server to screen.
 
