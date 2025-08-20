@@ -5,7 +5,7 @@
 
 ### 👋 Summary
 
-A developer who loves to see ideas come to life through code. I specialize in crafting robust backend architectures with **Java & Spring Boot** and building beautiful, cross-platform mobile experiences with **Flutter**. I'm on a mission to write clean, efficient code that solves real problems and provides a seamless user experience.
+Backend (Java/Spring) + AI/Automation (Python) + Mobile (Flutter). Crafting full-stack solutions from server to screen.
 
 ---
 
