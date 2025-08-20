@@ -1,5 +1,21 @@
 <h1 align="center">Hi, I'm Yashika Buwade 👋</h1>
-<h3 align="center">A passionate Java Backend & Flutter Developer</h3>
+<h3 align="center">Java Backend & Flutter Developer | Builder of Scalable Systems & Smooth Apps</h3>
+
+---
+
+### 👋 Summary
+
+A developer who loves to see ideas come to life through code. I specialize in crafting robust backend architectures with **Java & Spring Boot** and building beautiful, cross-platform mobile experiences with **Flutter**. I'm on a mission to write clean, efficient code that solves real problems and provides a seamless user experience. Currently open to new opportunities and collaborations!
+
+---
+
+### 👩‍💻 About Me
+
+- 💼 **Currently:** Sharpening my skills as a **Software Development Intern** @ **Muster Dekho**, working with Java, Spring Boot, and Flutter.
+- 🌱 **Learning & Growing:** Deep diving into **Microservices, Spring Cloud, and AWS** to build even more scalable and resilient systems.
+- 💡 **Passionate About:** Backend engineering, clean architecture, and the magic that happens when a great UI meets a powerful API.
+- 📫 **Want to talk tech?** Reach me at: **yashikabuwade@gmail.com**
+- ⚡ **Fun fact:** I can debug code and tell a joke simultaneously—my two greatest skills for lightening up a tense sprint. 😄
 
 ---
 
@@ -59,5 +75,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikabuwade@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashikaBuwade)
-
 
